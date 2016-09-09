@@ -17,5 +17,5 @@
         android:gravity="center"
         android:padding="10dp"
         android:layout_height="wrap_content"
-        android:text="Please turn on GPS !!!" />
+        android:text="@string/message" />
 </RelativeLayout>

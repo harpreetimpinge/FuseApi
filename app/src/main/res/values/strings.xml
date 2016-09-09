@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Location Service</string>
+    <string name="message">Please turn on GPS !!!</string>
 </resources>
